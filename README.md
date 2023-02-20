@@ -14,9 +14,9 @@ See requirments text in the repository
 
 There are two object classifier machine learning models, Binary and multi-classification.  
 
-Binary object classifier that distinguishes between biological objects and non-biological objects.  The main goal of this object classifier is to ignore the turbine blades while detecting biological object flying withing the rotor swept area of the turbine.  Non-biological objects have a probability of 0 and biological objects have a probability of 1.
+Binary object classifier labeled BatFinder_Smart_Video_BioFilter.h5 distinguishes between biological objects and non-biological objects.  The main goal of this object classifier is to ignore the turbine blades while detecting biological object flying withing the rotor swept area of the turbine.  Non-biological objects have a probability of 0 and biological objects have a probability of 1.
 
-Multi-classifier distinguishes between bats, birds, insects and non-biological.
+Multi-classifier labeled Multiclass_BatFinder_Smart_Video_BioFilter.h5 distinguishes between bats, birds, insects and non-biological.
 
 ## Copyright
 See [License](License) for details
