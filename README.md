@@ -19,7 +19,7 @@ Binary object classifier labeled BatFinder_Smart_Video_BioFilter.h5 distinguishe
 Multi-classifier labeled Multiclass_BatFinder_Smart_Video_BioFilter.h5 distinguishes between bats, birds, insects and non-biological.
 
 ## Copyright
-See [License](License) for details
+See [LICENSE](LICENSE) for details
 
 
 
